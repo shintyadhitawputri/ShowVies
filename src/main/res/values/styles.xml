@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="SplashScreen" parent="Theme.AppCompat.DayNight">
+        <item name="android:background">@color/background</item>
+    </style>
+    <style name="RowStyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/seed</item>
+        <item name="android:fontFamily">@font/montserrat_semi_bold</item>
+    </style>
+    <style name="RowDescStyle">
+        <item name="android:fontFamily">@font/montserrat_medium_italic</item>
+    </style>
+    <style name="DetailStyle">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/md_theme_dark_onPrimary</item>
+        <item name="android:fontFamily">@font/montserrat_semi_bold</item>
+    </style>
+    <style name="PremiereStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/montserrat_medium</item>
+    </style>
+    <style name="DetailDescStyle">
+        <item name="android:fontFamily">@font/montserrat_medium</item>
+    </style>
+    <style name="HelloAbout">
+        <item name="android:textSize">50sp</item>
+        <item name="android:textColor">@color/md_theme_light_onPrimaryContainer</item>
+        <item name="android:fontFamily">@font/labelle_aurore_regular</item>
+    </style>
+    <style name="NameAbout">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/md_theme_light_onPrimaryContainer</item>
+        <item name="android:fontFamily">@font/montserrat_medium</item>
+    </style>
+    <style name="EmailAbout">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/md_theme_light_onPrimaryContainer</item>
+        <item name="android:fontFamily">@font/montserrat_light</item>
+    </style>
+</resources>

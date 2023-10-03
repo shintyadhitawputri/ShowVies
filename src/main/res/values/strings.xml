@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">ShowVies</string>
+    <string name="movies_name">Movies Name</string>
+    <string name="descriptionlist">Description List</string>
+    <string name="description">Description</string>
+    <string name="premiere">Premiere Date</string>
+
+    <string name="about_name">Shintyadhita Wirawan Putri</string>
+    <string name="email">shintyadhita.wp@gmail.com</string>
+    <string name="share">Share Detail</string>
+    <string name="about_me">About Me</string>
+    <string name="about_hello">Hello, I\'m</string>
+
+    <string-array name="data_title">
+        <item>Sing 2</item>
+        <item>Moana</item>
+        <item>The Greatest Showman</item>
+        <item>Frozen</item>
+        <item>Coco</item>
+        <item>Tangled</item>
+        <item>Brave</item>
+        <item>The Little Mermaid</item>
+        <item>The Lion King</item>
+        <item>The Sound of Music</item>
+        <item>Beauty and the Beast</item>
+        <item>Aladdin</item>
+        <item>Hairspray</item>
+        <item>The Princess and the Frog</item>
+        <item>La La Land</item>
+        <item>Imperfect: \nKarir, Cinta, &amp; Timbangan</item>
+    </string-array>
+
+    <string-array name="data_descriptionlist">
+        <item>Unlock your inner superstar in the mesmerizing world of \'Sing 2\'.</item>
+        <item>Discover the boundless ocean of adventure in Moana\'s journey to self-discovery.</item>
+        <item>Step into the extraordinary world of \'The Greatest Showman\' and witness dreams transformed into dazzling reality.</item>
+        <item>Unlock the power of love in a frozen world where sisters\' bonds shine brighter than ice.</item>
+        <item>Discover a magical world where family bonds transcend life and death in the enchanting tale of \'Coco\'</item>
+        <item>Unlock the adventure of a lifetime as a long-haired dreamer discovers her destiny in \'Tangled,\' where laughter, love, and lanterns light up the way.</item>
+        <item>Discover a world where courage transforms destiny.</item>
+        <item>Dive into a world of underwater wonders and follow the dreams of a curious mermaid princess in \'The Little Mermaid,\' where love knows no bounds beneath the waves.</item>
+        <item>Embrace the majestic adventure of \'The Lion King,\' where a young lion\'s journey from exile to royalty unveils the true essence of the circle of life.</item>
+        <item>Let the hills come alive with the sound of music, as love and courage harmonize against the backdrop of a world in turmoil.</item>
+        <item>Discover the magic of a love that transcends appearances in the enchanting world of \'Beauty and the Beast.</item>
+        <item>Discover a whole new world of adventure and wonder in Aladdin, where a diamond in the rough finds love and magic beyond his wildest dreams.</item>
+        <item>Travel back to the \'60s in \'Hairspray,\' where dance, diversity, and dreams unite to shatter barriers and discover your voice.</item>
+        <item>Experience the magic of love and dreams in the heart of New Orleans as Tiana and Naveen discover that sometimes the greatest adventures can start with a leap of faith.</item>
+        <item>Let \'La La Land\' sweep you into a world where dreams shine.</item>
+        <item>In a world obsessed with perfection, \'Imperfect\' reminds us that the most beautiful moments in life are found in our flaws.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://m.media-amazon.com/images/M/MV5BMWRiZGQ1NDMtODQ2OS00MDlhLWJkZGYtM2ZmNjlhZThjOWRmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_FMjpg_UX1000_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMjI1NDYzNzY2Ml5BMl5BanBnXkFtZTgwODQwODczNTM@._V1_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNGY5MDZjZjQtOThmYi00YTQ0LWJjOWMtNjhjMGU2MDM3YzgwXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BYjZhYTRkZmQtMmE1OC00NTdiLTgzYjItMjZlZmFhOGQ1MWU2XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMjc2ZGNkOGQtOWUxNC00YjFmLTg1N2ItMTIzNDIyYzI2ZTdmXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BYTUxYjczMWUtYzlkZC00NTcwLWE3ODQtN2I2YTIxOTU0ZTljXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNWFhNjg3YjctMjg2Ny00YjBkLTg5M2EtMTk2MjA1NDY3NzQ2XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMTUwNjUxMTM4NV5BMl5BanBnXkFtZTgwODExMDQzMTI@._V1_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMjQ2ODIyMjY4MF5BMl5BanBnXkFtZTgwNzY4ODI2NzM@._V1_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BZmFhMzFkZTMtNmUxNS00OWQ1LTlhNjMtYzhmNTU4NmUzZDQwXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_FMjpg_UX1000_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNmJkZjk1OTUtNzQ3NC00M2I1LTgzNTQtYzk4MmMyNDk0MTY3XkEyXkFqcGdeQXVyMTI5NzUyMTIz._V1_FMjpg_UX1000_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BZjYzNTMzZTAtNzMzOS00ZWRhLTg3MWMtM2NjYmJmZjU4NmFhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI3NjY2ODc@._V1_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNGVlZDcxZjgtZTY4Ny00OGZhLThmMGYtMGIwMmY5M2QwOWIyXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>An animated musical film that continues the heartwarming and toe-tapping journey of a group of talented animals as they chase their dreams of stardom. With a star-studded cast and catchy musical performances, it\'s a delightful sequel that promises laughter, inspiration, and unforgettable songs for audiences of all ages. </item>
+        <item>A captivating animated film produced by Disney that follows the adventurous journey of a spirited Polynesian girl named Moana as she sets out on a daring voyage to save her people and discover her true destiny. With its stunning animation, memorable music, and a strong, independent heroine, "Moana" has become a beloved modern classic for audiences of all ages.</item>
+        <item>A musical film that tells the inspiring story of P.T. Barnum, a visionary showman who rises from humble beginnings to create a mesmerizing spectacle that captivates audiences worldwide. With it\'s catchy songs and dazzling choreography, the movie celebrates the power of imagination and the pursuit of one\'s dreams.</item>
+        <item>A magical animated film that follows the journey of two sisters, Elsa and Anna, as they discover the true power of love while navigating the challenges of Elsa\'s icy magical abilities. With catchy songs, stunning visuals, and heartwarming themes, the movie has captured the hearts of audiences worldwide.</item>
+        <item>A heartwarming animated film that takes audiences on a colorful journey to the vibrant world of Mexico\'s Day of the Dead. Through stunning visuals and a touching narrative, it beautifully explores themes of family, heritage, and the power of music.</item>
+        <item>A charming Disney animated film that reimagines the classic fairy tale of Rapunzel. With its vibrant animation, endearing characters, and catchy songs, it takes audiences on a magical adventure filled with humor, heart, and hair-raising escapades.</item>
+        <item>An enchanting animated film from Pixar that tells the tale of Merida, a headstrong Scottish princess who defies tradition to pursue her own destiny. Filled with humor, heart, and stunning visuals, the movie explores themes of bravery, family bonds, and the importance of self-discovery.</item>
+        <item>A beloved animated Disney classic that tells the enchanting tale of Ariel, a curious and spirited mermaid princess who longs to explore the human world and find true love. With its captivating underwater landscapes, memorable characters, and timeless music, this film has charmed audiences of all ages for generations.</item>
+        <item>A timeless Disney classic that follows the epic journey of Simba, a young lion cub who must overcome adversity and reclaim his rightful place as king of the Pride Lands. With its unforgettable characters, stunning animation, and a powerful soundtrack, this film continues to captivate audiences of all ages with its enduring tale of courage, friendship, and the circle of life.</item>
+        <item>A beloved musical film directed by Robert Wise, set against the backdrop of picturesque Austrian landscapes. This timeless classic follows the heartwarming journey of a spirited governess, Maria, as she brings music and love into the lives of a widowed naval captain\'s seven children while also standing up against the looming threat of the Nazi regime.</item>
+        <item>A timeless Disney classic that weaves a tale of love, acceptance, and transformation. Through enchanting animation and memorable characters, the film teaches us that beauty lies within and that true love goes beyond appearances.</item>
+        <item>A timeless Disney classic that whisks viewers away on a magical carpet ride through the vibrant and enchanting city of Agrabah. Filled with unforgettable characters, catchy songs, and a heartwarming tale of love and self-discovery, this animated masterpiece continues to capture the hearts of audiences of all ages.</item>
+        <item>A delightful musical film set in the 1960s that tells the story of Tracy Turnblad, a vivacious teenager with a passion for dancing, as she fights against racial segregation and body image stereotypes while pursuing her dream of appearing on a popular TV dance show.</item>
+        <item>A captivating Disney animated film that transports viewers to the enchanting streets of New Orleans, where a spirited young woman named Tiana embarks on a magical journey to break a curse and discover the true meaning of love, ambition, and friendship.</item>
+        <item>A captivating musical romance film directed by Damien Chazelle, featuring Ryan Gosling and Emma Stone in mesmerizing performances. Set against the backdrop of Los Angeles, the movie beautifully explores the dreams, aspirations, and the bittersweet journey of two aspiring artists falling in love while pursuing their creative passions.</item>
+        <item>A heartfelt drama that explores the complexities of human relationships and the pursuit of perfection in a world filled with flaws. The film follows the journey of its protagonist as she discovers that true happiness lies in embracing imperfections rather than striving for an unattainable ideal.</item>
+    </string-array>
+
+    <string-array name="data_premiere">
+        <item>Premiere: January 7, 2022</item>
+        <item>Premiere: November 25, 2016</item>
+        <item>Premiere: December 29, 2017</item>
+        <item>Premiere: November 29, 2013</item>
+        <item>Premiere: November 22, 2017</item>
+        <item>Premiere: November 14, 2010</item>
+        <item>Premiere: June 10, 2012</item>
+        <item>Premiere: May 8, 2023</item>
+        <item>Premiere: July 19, 2019</item>
+        <item>Premiere: March 2, 1965</item>
+        <item>Premiere: February 23, 2017</item>
+        <item>Premiere: May 8, 2019</item>
+        <item>Premiere: July 10, 2007</item>
+        <item>Premiere: November 25, 2009</item>
+        <item>Premiere: August 31, 2016</item>
+        <item>Premiere: December 19, 2019</item>
+    </string-array>
+</resources>

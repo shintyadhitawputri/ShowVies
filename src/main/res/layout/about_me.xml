@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="689dp">
+
+        <TextView
+            android:id="@+id/abouthello"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="125dp"
+            android:text="@string/about_hello"
+            style="@style/HelloAbout"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/img_item_photo"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginTop="220dp"
+            android:gravity="center"
+            android:src="@drawable/about"
+            app:layout_constraintTop_toTopOf="parent"/>
+
+        <TextView
+            android:id="@+id/aboutname"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="390dp"
+            android:gravity="center"
+            android:text="@string/about_name"
+            style="@style/NameAbout"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/aboutemail"
+            style="@style/EmailAbout"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="420dp"
+            android:layout_marginBottom="200dp"
+            android:gravity="center"
+            android:text="@string/email"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
